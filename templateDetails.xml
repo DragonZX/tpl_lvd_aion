@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<install version="1.5" type="template">
+	<name>aion_lernvid.com</name>
+	<creationDate>13.08.2009</creationDate>
+	<author>Juergen Koller</author>
+	<copyright>Creative Commons Sharalike 3.0</copyright>
+	<authorEmail>webmaster@lernvid.com</authorEmail>
+	<authorUrl>http://www.lernvid.com</authorUrl>
+	<version>1.0</version>
+	<description>
+	<![CDATA[
+	<hr>
+	<h1 style="padding:10px;">Aion - LernVid.com</h1>
+	<hr>
+	<p style="padding:5px;">Author <a href="http://lernvid.com" target="_blank">Lernvid.com - Lernvideos Tutorials Templates PSD-Files and more... </a>.</p>
+	<p style="padding:5px;">It's not allowed to delete the backlink to the autor: <a href="http://www.lernvid.com" target="_blank">www.lernvid.com </a></p>
+	<p style="padding:5px;">Published under Creative Commons Sharalike 3.0 Licence. More informations: <a href="http://creativecommons.org/licenses/by-sa/3.0/deed.de" target="_blank">Creative Commons Licence Mulilanguage </a></p>
+	<p style="padding:5px;">LernVid.com wishes you much fun with the template!</a></p>
+	<p style="padding:5px;">Support under: <a href="http://www.board.lernvid.com" target="_blank">Supportforum - LernVid.com</a></p>	
+	<hr>
+	<img src="../templates/aion_lernvid.com/template_thumbnail.png" align="left" hspace="10" style="padding:10px;" />
+	]]>  
+	</description>
+	<files>
+		<filename>index.php</filename>
+		<filename>index.html</filename>
+		<filename>css/index.html</filename>
+		<filename>images/index.html</filename>
+		<filename>js/hover.js</filename>
+		<filename>template_thumbnail.png</filename>
+	</files>
+		<images>
+		<filename>images/bg.jpg</filename>
+		<filename>images/button_bg.png</filename>
+		<filename>images/button_bg_hover.png</filename>
+		<filename>images/componentheading.jpg</filename>
+		<filename>images/container2.gif</filename>	
+		<filename>images/content.gif</filename>
+		<filename>images/content_down_left.gif</filename>
+		<filename>images/content_down_right.gif</filename>
+		<filename>images/content_up_left.gif</filename>
+		<filename>images/content_up_right.gif</filename>
+		<filename>images/contentheading.jpg</filename>
+		<filename>images/copywright.jpg</filename>
+		<filename>images/designer.jpg</filename>
+		<filename>images/gotop.jpg</filename>
+		<filename>images/head.jpg</filename>
+		<filename>images/list.png</filename>		
+		<filename>images/list_hover.png</filename>
+		<filename>images/livemarks.png</filename>
+		<filename>images/logo.jpg</filename>
+		<filename>images/menu.jpg</filename>
+		<filename>images/menu_hover.jpg</filename>
+		<filename>images/module_bg.gif</filename>
+		<filename>images/module_h3.gif</filename>
+		<filename>images/moduletable_h3.gif</filename>
+		<filename>images/navi.jpg</filename>
+		<filename>images/navi_hover.jpg</filename>
+		<filename>images/page_content.gif</filename>
+		<filename>images/search.jpg</filename>
+		</images>
+	<css>
+		<filename>css/style.css</filename>
+		<filename>css/ie5x6x.css</filename>
+		<filename>css/reset.css</filename>
+	</css>
+		<positions>
+		<position>top</position>
+		<position>bottom</position>
+		<position>left</position>
+		<position>right</position>
+		<position>user1</position>
+		<position>user2</position>
+		<position>user3</position>
+		<position>user4</position>
+		<position>user5</position>
+		<position>user6</position>
+		<position>user7</position>
+		<position>user8</position>
+		<position>banner</position>
+		<position>syndicate</position>
+	</positions>
+
+</install>
